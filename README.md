@@ -20,6 +20,8 @@ This project demonstrates my experience with Git and GitLab through a version co
 ## Conclusion:
 Through this project, I enhanced my understanding of version control systems, crucial for collaboration in modern software development.
 
-##Funny enough..
+## Funny enough..
 I used git to clone a repo from my remote repo on Github, and pushed everything...using git...
 
+## Course Assignment/Screenshots
+These are provided in pdf 
